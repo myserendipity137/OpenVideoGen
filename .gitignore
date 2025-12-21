@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+/pretrained/Wan2.1_VAE.pth
+cache/
+data/
+.venv
